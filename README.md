@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AndyDA/AndyDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-
 ![Photo](http://pixelprowess.com/i/pow-laptopgrab.jpg)
 
 
@@ -17,6 +10,15 @@
 - [YouTube Channel]()
 - [Twitter Stream]() 
 - [Dribbble]()
+
+
+<!--
+**AndyDA/AndyDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+
+
 
 
 
