@@ -9,9 +9,7 @@ I’m Obreja Adrian. Web designer from EU, with passion for new technologies. Lo
 </div>
 
 ## My Content
-- [LinkedIn Courses]()
 - [Blog](https://andy.da.md/blog/)
-- [LinkedIn Profile]()
 - [YouTube Channel]()
 - [Twitter Stream]() 
 - [Dribbble]()
