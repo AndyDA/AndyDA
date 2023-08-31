@@ -4,6 +4,10 @@
 
 I’m Obreja Adrian. Web designer from EU, with passion for new technologies. Love to work on front-end, make site design, building them and satisfied when pixels come to “life”. Also I love Drupal, that have a special place in my heart. Clean and minimalist web design, clean code and fast loading websites are three of my base principles. As a daily routine, I try to remain relevant in the technology industry: reading technical blogs, books and listening to a lot of podcasts.
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ## My Content
 - [LinkedIn Courses]()
 - [Blog](https://andy.da.md/blog/)
