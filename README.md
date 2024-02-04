@@ -39,7 +39,10 @@ To stay abreast of the ever-evolving technology landscape, I make it a part of m
   <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="100"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator " width="40" height="100"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop " width="40" height="100"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop " width="40" height="100"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/31587/adobe-indesign.svg" title="Indesign" alt="Indesign " width="40" height="100"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/329863/adobexd.svg" title="AdobeXD" alt="AdobeXD " width="40" height="100"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/508792/corel-draw.svg" title="CorelDRAW" alt="CorelDRAW " width="40" height="100"/>&nbsp;
   <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="60" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="60" height="100"/>&nbsp;
@@ -50,8 +53,6 @@ To stay abreast of the ever-evolving technology landscape, I make it a part of m
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="70" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="70" height="100"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354022/macos.svg" title="MacOS" alt="MacOS" width="70" height="100"/>&nbsp;
-
-  
 </div>
 
 <!--
