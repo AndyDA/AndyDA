@@ -50,9 +50,9 @@ To stay abreast of the ever-evolving technology landscape, I make it a part of m
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="70" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="70" height="100"/>&nbsp;
   <br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="60" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="60" height="100"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354022/macos.svg" title="MacOS" alt="MacOS" width="60" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="100"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354022/macos.svg" title="MacOS" alt="MacOS" width="40" height="100"/>&nbsp;
 </div>
 
 <!--
