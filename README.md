@@ -2,7 +2,7 @@
 
 ### Greetings! 👋
 
-I'm Obreja Adrian, a Web Designer based in the European Union, driven by a profound passion for cutting-edge technologies. My expertise lies in crafting captivating front-end experiences, where I relish the process of transforming design concepts into vibrant, functional websites. Witnessing pixels spring to life brings me immense satisfaction.
+I'm Obreja Adrian, a Web Developer and Web Designer based in the EU, driven by a profound passion for cutting-edge technologies. My expertise lies in crafting captivating front-end experiences, where I relish the process of transforming design concepts into vibrant, functional websites. Witnessing pixels spring to life brings me immense satisfaction.
 
 Additionally, my affection for Drupal holds a special place in my professional journey. I am committed to adhering to three fundamental principles: maintaining clean and minimalist web design, producing impeccable code, and ensuring swift website loading times.
 
