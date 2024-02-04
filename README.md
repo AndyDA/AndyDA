@@ -35,7 +35,7 @@ To stay abreast of the ever-evolving technology landscape, I make it a part of m
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" alt="symfony " width="40" height="100"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Jamstack" alt="Jamstack " width="40" height="100"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" title="Jamstack" alt="Jamstack " width="40" height="100"/>&nbsp; 
   <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="100"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator " width="40" height="100"/>&nbsp; 
