@@ -25,20 +25,20 @@ To stay abreast of the ever-evolving technology landscape, I make it a part of m
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="NextJS" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="100"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="100"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" alt="symfony " width="40" height="100"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" title="Jamstack" alt="Jamstack " width="40" height="100"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" alt="symfony " width="40" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" title="Jamstack" alt="Jamstack " width="40" height="100"/>&nbsp;
   <br />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="100"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator " width="40" height="100"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator " width="40" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop " width="40" height="100"/>&nbsp;
   <img src="https://www.svgrepo.com/show/31587/adobe-indesign.svg" title="Indesign" alt="Indesign " width="40" height="100"/>&nbsp;
   <img src="https://www.svgrepo.com/show/329863/adobexd.svg" title="AdobeXD" alt="AdobeXD " width="40" height="100"/>&nbsp;
